@@ -13,9 +13,10 @@ function Hero() {
         // <!-- START: HERO -->
       <section className="flex items-center hero">
         <div className="w-full absolute z-20 inset-0 md:relative md:w-1/2 text-center flex flex-col justify-center hero-caption">
-          <h1 className="text-3xl md:text-5xl leading-tight font-semibold">
-            The Room <br className="" />You've Dreaming
-          </h1>
+        <h1 className="text-3xl md:text-5xl leading-tight font-semibold text-gray-800">
+  Ruang Impian <br className="" /> Yang Selalu Kamu Cari
+</h1>
+
           <h2 className="px-8 text-base md:px-0 md:text-lg my-6 tracking-wide">
             Kami menyediakan furniture berkelas yang
             <br className="hidden lg:block" />membuat ruangan terasa homey
